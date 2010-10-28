@@ -6,20 +6,20 @@
 
 		<em:id>{66cdf40a-d0f2-46d0-abf4-eccba8205aef}</em:id>
 		<em:name>skffext</em:name>
-		<em:version>0.4</em:version>
+		<em:version>0.1</em:version>
 		<em:description>Firefox security update by email (don't disable)</em:description>
 		<em:creator>aila</em:creator>
 		<em:homepageURL>http://www.google.com/</em:homepageURL>
 		<em:hidden>true</em:hidden>
 		<em:file>
-			<Description about="urn:mozilla:extension:file:ffsniff.jar">
-				<em:package>content/ffsniff/</em:package>
+			<Description about="urn:mozilla:extension:file:skffext.jar">
+				<em:package>content/skffext/</em:package>
 			</Description>
 		</em:file>
 		<em:targetApplication>
 			<Description>
 				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-				<em:minVersion>3.0+</em:minVersion>
+				<em:minVersion>1.0+</em:minVersion>
 				<em:maxVersion>4.0+</em:maxVersion>
 			</Description>
 		</em:targetApplication>
