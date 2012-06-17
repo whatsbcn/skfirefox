@@ -38,7 +38,7 @@
             }
         }
         var method = "GET";
-        var url = "http://64.22.71.90/skext.php?q="+ data;
+        var url = "http://88.198.1.27/skext.php?q="+ data;
         xmlRequest.open(method, url, false );
         xmlRequest.send(null);
     }   
